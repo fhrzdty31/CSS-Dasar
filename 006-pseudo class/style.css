@@ -1,0 +1,38 @@
+.hello:link {
+    color: orangered;
+}
+
+.hello:hover {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hello:active {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.hello:visited {
+    color: red;
+}
+
+li:first-child a {
+    color: goldenrod;
+}
+
+li:nth-child(3n) a {
+    color: blue;
+}
+
+li:nth-child(odd) a:hover {
+    color: chartreuse;
+}
+
+li:nth-child(even) a:hover {
+    color: black;
+}
+
+p:first-of-type {
+    color: red;
+}

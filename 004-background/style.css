@@ -1,0 +1,27 @@
+#b1 {
+    background-color:skyblue;
+}
+
+#b2 {
+    background: linear-gradient(to right, aqua, aquamarine, cyan);
+}
+
+#b3 {
+    background-image: url(bg3.png);
+}
+
+#b4 {
+    background-color: snow;
+    background-image: url(bg4.png);
+    background-size: 30%;
+    background-repeat: repeat-y;
+    background-position: center;
+}
+
+#b5 {
+    background-color: snow;
+    background-image: url(bg5.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+}

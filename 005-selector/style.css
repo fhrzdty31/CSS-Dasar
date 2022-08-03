@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+a {text-decoration: none;}
+
+ul li a {
+    color: orangered;
+}
+
+ol li a {
+    color: green;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 25px;
+    padding: 3px;
+}
+
+#p1 {
+    background-color: green;
+    color: white;
+}
+
+.p2 {
+    background-color: black;
+    color: white;
+}

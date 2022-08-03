@@ -1,0 +1,22 @@
+h1{
+    font-size: 75px;
+    color: lightseagreen;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2{
+    text-decoration: line-through;
+}
+
+p{
+    text-indent: 50px;
+    text-align: justify;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,23 @@
+#p {
+    color: gold;
+}
+
+.p {
+    color: blue;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: green;
+}
+
+/*
+
+tingkatan selector css:
+    inline, in, class, tag
+p  : 0001 (3)
+.p : 0010 (2)
+#p : 0100 (1)
+
+*/
